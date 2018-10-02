@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ASSESSMENT</string>
+    <string name="banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="facebook_app_id">713665315680800</string>
+    <string name="fb_login_protocol_scheme">fb713665315680800</string>
+</resources>
